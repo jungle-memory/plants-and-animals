@@ -4,7 +4,7 @@ This repository has links to articles about cool things plants and animals do.
 
 [Plants talk to each other through their roots](https://www.theguardian.com/science/2018/may/02/plants-talk-to-each-other-through-their-roots)
 
-[Mimosa Plants Memory](http://www.sci-news.com/biology/science-mimosa-plants-memory-01695.html)
+[Mimosa plants have long term memory and can learn](http://www.sci-news.com/biology/science-mimosa-plants-memory-01695.html)
 
 [Plants respond to caterpillar sounds by creating defensive chemicals](https://entomologytoday.org/2014/07/03/plants-respond-to-caterpillar-sounds-by-creating-defensive-chemicals/)
 
